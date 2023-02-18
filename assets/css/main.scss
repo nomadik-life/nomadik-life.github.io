@@ -6,8 +6,8 @@ search: false
 @charset "utf-8";
 
 /* system typefaces */
-$serif: Poppins, Georgia, Times, serif !default;
-$sans-serif: Poppins, -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI",
+$serif: "Poppins", Georgia, Times, serif !default;
+$sans-serif: "Poppins", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI",
   "Helvetica Neue", "Lucida Grande", Arial, sans-serif !default;
 $monospace: Monaco, Consolas, "Lucida Console", monospace !default;
 
