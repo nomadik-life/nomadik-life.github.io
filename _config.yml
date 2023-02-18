@@ -65,6 +65,7 @@ author:
   name   : "Vishwak"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
+  location: "Coimbatore, India"
   links:
 #    - label: "Website"
 #      icon: "fas fa-fw fa-link"
@@ -72,14 +73,12 @@ author:
 #    - label: "Twitter"
 #      icon: "fab fa-fw fa-twitter-square"
 #      url: "https://twitter.com/"
-    - label: "Coimbatore"
-      icon: "fa-sharp fa-solid fa-compass"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/nitheeshkumaarmv"
 
 
-#footer:
+footer:
 #  links:
 #   - label: "Twitter"
 #      icon: "fab fa-fw fa-twitter-square"
